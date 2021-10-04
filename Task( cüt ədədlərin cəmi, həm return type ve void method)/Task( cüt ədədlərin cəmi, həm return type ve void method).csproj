@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Task__cüt_ədədlərin_cəmi__həm_return_type_ve_void_method_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
